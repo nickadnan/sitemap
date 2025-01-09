@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <!-- Homepage - Highest Priority -->
+    <url>
+        <loc>https://mindmasterybooks.com/</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Product Pages -->
+    <url>
+        <loc>https://mindmasterybooks.com/b/039BI</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>Discover &quot;The Unwritten Thesis: When Knowledge Becomes a Dangerous Game&quot; - a captivating ebook available for $4.99. Perfect for Kindle, free downloads, and more at MindMasteryBooks.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/b/KobCU</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>Step-by-Step Amazon FBA Blueprint: Learn how to generate $30,000+ monthly with this ultimate Amazon seller guide. Ideal for Kindle readers and free ebook downloads.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/b/EZxRB</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>Master Your Minutes: Essential guide for young millennials. Enhance productivity and time management with this $15 ebook. Downloadable for free as a PDF for a limited time.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/b/DveLp</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>Essential Guide for Graduate Success: Discover the best tips for journal writing and PhD management. Download this guide for only $25.90 at MindMasteryBooks.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/b/uTrXw</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>Step-by-Step Journal Article Writing Guide: Printable PDF infographic for $29.90. Designed for Kindle and Kobo ebook readers.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/b/rhIWs</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>PhD Student Management &amp; Planner Tool: Optimize your academic success with this $35.90 organizer. Free eBooks and Kindle-friendly format available.</description>
+    </url>
+
+    <!-- Blog Pages -->
+    <url>
+        <loc>https://mindmasterybooks.com/blog</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <description>Explore our blog for free ebooks, productivity guides, and Kindle-friendly resources. MindMasteryBooks is your one-stop shop for knowledge and growth.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/blog/how-to-master-your-mind</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+        <description>How to Master Your Mind: Tips for personal growth and productivity. Free ebooks available for download. Ideal for Kindle and Kobo readers.</description>
+    </url>
+
+    <!-- Collections -->
+    <url>
+        <loc>https://mindmasterybooks.com/collection/all</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <description>All eBooks and resources at MindMasteryBooks. From free Kindle ebooks to Amazon's best-sellers, explore a wide range of options.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/collection/best-sellers</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>Browse the best-sellers collection at MindMasteryBooks. Perfect for Kindle ebook readers, Amazon ebook fans, and those looking for free downloads.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/collection/personal-development</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>Personal Development eBooks: Achieve your goals with top-rated resources. Kindle-ready and available for free PDF downloads.</description>
+    </url>
+    <url>
+        <loc>https://mindmasterybooks.com/collection/productivity-guides</loc>
+        <lastmod>2025-01-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <description>Productivity Guides: Boost efficiency with these eBooks. Available for Kindle, Kobo, and Amazon eBook readers.</description>
+    </url>
+</urlset>
